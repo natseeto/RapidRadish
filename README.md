@@ -1,2 +1,2 @@
 # RapidRadish
-무빨리
+빨리 무ve
